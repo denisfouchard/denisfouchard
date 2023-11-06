@@ -11,7 +11,7 @@ I am currently in internship at [Inria Paris Saclay](https://www.inria.fr/en/inr
 
 I am a proud macOS user but I like GNU/Linux as well ;)
 
-You can contact me at denis[ᴅᴏᴛ]fouchard[ᴀᴛ]telecom-paris[ᴅᴏᴛ]fr
+You can reach me by mail at `denis[ᴅᴏᴛ]fouchard[ᴀᴛ]telecom-paris[ᴅᴏᴛ]fr`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisfouchard&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=denisfouchard&show_icons=true&theme=transparent)
