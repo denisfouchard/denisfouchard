@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello world !
 
-<!--
-**denisfouchard/denisfouchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Denis Fouchard (*df*), a second year student at [Télécom Paris](http://telecom-paris.fr), France's best engineering school in the domain of digital technologies<sup>[1](https://www.letudiant.fr/classements/classement-des-ecoles-d-ingenieurs.html)</sup> 
+and member of the [Polytechnique Institute of Paris](https://www.ip-paris.fr/).
 
-Here are some ideas to get you started:
+I specialize in data science and machine learning, as well as foundations of CS and operational Research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I manly code in Python, a little bit of Java and C++, and I do a *tiny tiny* bit of Webdev (React/FastAPI).
+
+I am currently in internship at [Inria Paris Saclay](https://www.inria.fr/en/inria-saclay-centre), working on machine learning applied to brain fMRI.
+
+I am a proud macOS user but I like GNU/Linux as well ;)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisfouchard&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=denisfouchard&show_icons=true&theme=transparent)
+
