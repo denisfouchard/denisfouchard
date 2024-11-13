@@ -33,6 +33,8 @@ My favourite libraries for ML:
 Former intern at [Inria Paris Saclay](https://www.inria.fr/en/inria-saclay-centre), working on machine learning applied to brain fMRI.
 Former developper intern at Dassault Systèmes / Netvibes (Exalead), working on LLM driven Text-to-DB on SemanticGraphIndex.
 
+Currently doing a research project at Télécom Paris on Knowledge graphs entity typing with GNNs and LLMs.
+
 I am a proud macOS user but I like GNU/Linux as well ;)
 
 You can reach me by mail at `denis[ᴅᴏᴛ]fouchard[ᴀᴛ]telecom-paris[ᴅᴏᴛ]fr`
