@@ -9,17 +9,29 @@ My programmation languages:
 
 ```Python ⭐️⭐️⭐️⭐️⭐️```
 
-```OCaml ⭐️⭐️⭐️```
+```OCaml ⭐️⭐️```
 
 ```Java/Swing ⭐️⭐️⭐️```
 
 ```TypeScript ⭐️⭐️⭐️```
 
-```C++ ⭐️⭐️```
+```C++ ⭐️```
 
-```Prolog ⭐️⭐️```
+```Prolog ⭐️```
 
-I am currently in internship at [Inria Paris Saclay](https://www.inria.fr/en/inria-saclay-centre), working on machine learning applied to brain fMRI.
+My favourite libraries for ML:
+- numpy
+- scikit-learn
+- scikit-network (for graph diffusion)
+- pytorch
+- pytorch-geometric (for graph learning)
+- pykeen (for Knowledge Graph embeddings)
+- transformers
+- peft
+- nilearn (for fMRI data)
+
+Former intern at [Inria Paris Saclay](https://www.inria.fr/en/inria-saclay-centre), working on machine learning applied to brain fMRI.
+Former developper intern at Dassault Systèmes / Netvibes (Exalead), working on LLM driven Text-to-DB on SemanticGraphIndex.
 
 I am a proud macOS user but I like GNU/Linux as well ;)
 
